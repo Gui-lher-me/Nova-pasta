@@ -1,0 +1,154 @@
+{
+  "count": 11,
+  "next": "https://dropcommerce-app.herokuapp.com/embedded/imports/?page=2",
+  "previous": null,
+  "page": 1,
+  "per_page": 10,
+  "results": [
+    {
+      "id": 4256347,
+      "price": 23.18,
+      "title": "Superwarm Heavy Extreme Alpaca Socks",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzY3MzRfMTg1MjEyMi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDE3OH19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 13,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 6734,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4257640,
+      "price": 18.33,
+      "title": "Organic Elderberry Syrup",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGhlX2hvbWVfZmFybV9vcmdhbmljX2VsZGVyYmVycnlfc3lydXBfdGhlX2hvbWVfZmEyMTgwNjMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDI1MH19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 3,
+      "supplier": {
+        "name": "The Home Farm"
+      },
+      "product_id": 61625,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4257641,
+      "price": 20.96,
+      "title": "Alpaca Leg Warmers",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzY4NDFfMTg1MjEzNi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDI1MH19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 7,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 6841,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4263264,
+      "price": 15.05,
+      "title": "Classic Alpaca Socks",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzY5NTVfMTg5NjAyOS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDE2Nn19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 27,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 6955,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4263294,
+      "price": 16.25,
+      "title": "RADIANT by PUIK - classy diamond shaped crystal glass - set of 2",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzc1NDY0LmpwZWciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiaGVpZ2h0IjogMjUwfX19",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 1,
+      "supplier": {
+        "name": "Puik Design"
+      },
+      "product_id": 75464,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4263403,
+      "price": 12.84,
+      "title": "Alpaca Watching Socks",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzM0NzU2M18xODUxNzc1LmpwZWciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiaGVpZ2h0IjogMjQyfX19",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 15,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 347563,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4268151,
+      "price": 16.06,
+      "title": "Alpaca Heart Socks",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzY4MzAuanBlZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJoZWlnaHQiOiAyNTB9fX0=",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 3,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 6830,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4268152,
+      "price": 37.05,
+      "title": "Fleur De Pivione aka Peony Necklace- Gold",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzIxNDYyOS5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDI1MH19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 1,
+      "supplier": {
+        "name": "Namaste Jewelry"
+      },
+      "product_id": 214629,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4271696,
+      "price": 14.86,
+      "title": "Alpaca Argyle Socks",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzY3NjhfMTg2MTEzNC5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImhlaWdodCI6IDI1MH19fQ==",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 16,
+      "supplier": {
+        "name": "PurelyAlpaca"
+      },
+      "product_id": 6768,
+      "shopify_product_id": "0"
+    },
+    {
+      "id": 4271697,
+      "price": 45.49,
+      "title": "Men's Turkish Cotton Towel Wrapped",
+      "image": "https://dnvlxjuzig5dx.cloudfront.net/eyJidWNrZXQiOiAiZHJvcGNvbW1lcmNlLWltYWdlcyIsICJrZXkiOiAidGh1bWJuYWlsXzIyNzg1OV8xODk0NDQzLmpwZWciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiaGVpZ2h0IjogMjUwfX19",
+      "status": "not imported",
+      "imported": false,
+      "quantity": 10,
+      "supplier": {
+        "name": "SEYANTE"
+      },
+      "product_id": 227859,
+      "shopify_product_id": "0"
+    }
+  ],
+  "status": {
+    "added_products": 11,
+    "product_limit": null,
+    "pushed_products": 0
+  }
+}

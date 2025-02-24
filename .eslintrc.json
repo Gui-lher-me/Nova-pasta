@@ -1,0 +1,73 @@
+{
+  "env": {
+    "es6": true
+  },
+  "extends": ["next/core-web-vitals"],
+  "plugins": ["boundaries"],
+  "settings": {
+    "boundaries/include": ["src/**/*"],
+    "boundaries/elements": [
+      {
+        "mode": "full",
+        "type": "sharedFolders",
+        "pattern": [
+          "src/components/**/*",
+          "src/constants/**/*",
+          "src/icons/**/*",
+          "src/lib/**/*",
+          "src/providers/**/*"
+        ]
+      },
+      {
+        "mode": "full",
+        "type": "features",
+        "capture": ["featureName"],
+        "pattern": ["src/features/*/**/*"]
+      },
+      {
+        "mode": "full",
+        "type": "app",
+        "capture": ["_", "fileName"],
+        "pattern": ["src/app/**/*"]
+      },
+      {
+        "mode": "full",
+        "type": "neverImport",
+        "pattern": ["src/middleware.js"]
+      }
+    ]
+  },
+  "rules": {
+    "no-undef": "error",
+    "no-unused-vars": "warn",
+    "boundaries/no-unknown": ["error"],
+    "boundaries/no-unknown-files": ["error"],
+    "boundaries/element-types": [
+      "error",
+      {
+        "default": "disallow",
+        "rules": [
+          {
+            "from": ["sharedFolders"],
+            "allow": ["sharedFolders"]
+          },
+          {
+            "from": ["features"],
+            "allow": [
+              "sharedFolders",
+              ["features", { "featureName": "${from.featureName}" }]
+            ]
+          },
+          {
+            "from": ["app", "neverImport"],
+            "allow": ["sharedFolders", "features"]
+          },
+          {
+            "from": ["app"],
+            "allow": [["app", { "fileName": "*.css" }]]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4272941,
+  "title": "Cereal Killer Socks",
+  "variants": [
+    {
+      "name": "Default Title",
+      "custom_price": 14.1,
+      "active": true,
+      "compare_at_price": null,
+      "id": 1695422,
+      "shipping_cost": 5.0,
+      "stock": 48,
+      "cost": 9.1
+    },
+    {
+      "name": "Default Title",
+      "custom_price": 14.1,
+      "active": true,
+      "compare_at_price": null,
+      "id": 1695940,
+      "shipping_cost": 5.0,
+      "stock": 48,
+      "cost": 9.1
+    }
+  ],
+  "description": "<div class=\"description\">\n These crew socks give off some serious cereal + true crime enthusiast vibes and are made from a delightfully comfy blend of cotton, polyester, and elastane.\n <br/>\n <br/>\n <h4>\n  Features:\n </h4>\n <ul>\n  <li>\n   76% Cotton 22% Polyester 2% Elastane\n  </li>\n  <li>\n   Striped Half Terry Crew Sock\n  </li>\n  <li>\n   “CEREAL KILLER\" on Both Sides of Sock\n  </li>\n  <li>\n   Available in White Color\n  </li>\n  <li>\n   One Size Fits Most Adults (Sizes 9-11)\n  </li>\n  <li>\n   Machine Wash\n  </li>\n </ul>\n</div>\n",
+  "tags": "",
+  "type": "",
+  "product": 351646,
+  "collection_options": [
+    {
+      "label": "",
+      "value": ""
+    }
+  ],
+  "collection": ""
+}
